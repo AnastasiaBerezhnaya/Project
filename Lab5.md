@@ -33,4 +33,4 @@ Anastasia and Edgar
 5. Succesful end state
  - Victory screen
  
- ![myflowcart]()
+ ![myflowcart](http://users.metropolia.fi/~zhuzhine/Software/Flowchart.jpg)

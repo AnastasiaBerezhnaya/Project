@@ -31,6 +31,6 @@ Anastasia and Edgar
  - Shake weapon to recharge
 
 5. Succesful end state
- - Victory screen
+ - Victory screen 
  
  ![myflowcart](http://users.metropolia.fi/~zhuzhine/Software/Flowchart.jpg)

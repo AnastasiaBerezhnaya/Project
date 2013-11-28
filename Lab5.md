@@ -1,7 +1,7 @@
 Project
 =======
 
-Anastasia and Edgar
+Anastasia Berezhnaya and Edgar Zhuzhin
 
 1. Initial state
  - Start the app

@@ -54,7 +54,17 @@ Our system will be based on indoor positioning and involved in game process. Fro
 * See rest of the time
 * See commands  
 * See life parameters |
-| Commander   | **Anastasia Berezhnaya**,**Edgar Zhuzhin**     |
+| Commander   | *Choose workspace (theme)
+* Enter name
+* Shoot
+* Reload weapon
+* Track enemies
+* Give commands
+* Direct players
+* Approve bonus
+* See rest time
+* Find treasure
+ *See life parameters     |
 
 
 

@@ -42,17 +42,7 @@ Our system will be based on indoor positioning and involved in game process. Fro
 
 | Actor      | Use cases |
 | ------------- | :------------- | 
-| Player  | ..* Choose workspace (theme)
-..* Enter name
-..* Become commander
-..* Shoot
-..* Reload weapon
-..* Track enemies
-..* Use bonus
-..* Find treasure
-..* See rest of the time
-..* See commands
-..* See life parameters |
+| Player  | ..* Choose workspace (theme)..* Enter name ..* Become commander..* Shoot ..* Reload weapon..* Track enemies..* Use bonus..* Find treasure..* See rest of the time..* See commands ..* See life parameters |
 | Commander   | **Anastasia Berezhnaya**,**Edgar Zhuzhin**     |
 
 

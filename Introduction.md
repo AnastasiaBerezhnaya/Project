@@ -5,7 +5,8 @@ The Game of Clans
 | Product name       | The Game of Clans |
 | ------------- | :------------- | 
 | **Team name**  | **BAZE.team** |
-| **Team members**    | **Anastasia Berezhnaya**,**Edgar Zhuzhin**     |   
+| **Team members**    | ...**Anastasia Berezhnaya**...
+...**Edgar Zhuzhin** ...    |   
 | **Date of report** | **06.12.2013**     |   
 
 
@@ -37,13 +38,13 @@ Our system will be based on indoor positioning and involved in game process. Fro
 | Commander    | Leader of the team     | Has some privileges and special role in the game. Commander makes the strategy of attack and can direct the players.  |
   
 
+*Use cases*
 
 
-
-
-
-
-
+| Actor      | Use cases |
+| ------------- | :------------- | 
+| Player  | **BAZE.team** |
+| Commander   | **Anastasia Berezhnaya**,**Edgar Zhuzhin**     |
 
 
 

@@ -38,5 +38,9 @@ More precisely the game process will be described further.
 
 
 
-
+dog | bird | cat
+----|------|----
+foo | foo  | foo
+bar | bar  | bar
+baz | baz  | baz
  

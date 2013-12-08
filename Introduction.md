@@ -42,7 +42,8 @@ Our system will be based on indoor positioning and involved in game process. Fro
 
 | Actor      | Use cases |
 | ------------- | :------------- | 
-| Player  | * Choose workspace (theme) 
+| Player  | 
+* Choose workspace (theme) 
 * Enter name 
 * Become commander 
 * Shoot 

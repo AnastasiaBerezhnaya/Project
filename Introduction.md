@@ -5,8 +5,7 @@ The Game of Clans
 | Product name       | The Game of Clans |
 | ------------- | :------------- | 
 | **Team name**  | **BAZE.team** |
-| **Team members**    | ...**Anastasia Berezhnaya**...
-...**Edgar Zhuzhin** ...    |   
+| **Team members**    | **Anastasia Berezhnaya**,**Edgar Zhuzhin**     |   
 | **Date of report** | **06.12.2013**     |   
 
 
@@ -43,7 +42,17 @@ Our system will be based on indoor positioning and involved in game process. Fro
 
 | Actor      | Use cases |
 | ------------- | :------------- | 
-| Player  | **BAZE.team** |
+| Player  | ⋅*Choose workspace (theme)
+Enter name
+Become commander
+Shoot
+Reload weapon
+Track enemies
+Use bonus
+Find treasure
+See rest of the time
+See commands
+See life parameters. |
 | Commander   | **Anastasia Berezhnaya**,**Edgar Zhuzhin**     |
 
 

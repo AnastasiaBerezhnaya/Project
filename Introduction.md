@@ -42,9 +42,7 @@ Our system will be based on indoor positioning and involved in game process. Fro
 
 | Actor      | Use cases |
 | ------------- | :------------- | 
-| Player  | 
-* Choose workspace (theme) 
-* Enter name 
+| Player  | * Choose workspace (theme) * Enter name 
 * Become commander 
 * Shoot 
 * Reload weapon 
@@ -54,7 +52,7 @@ Our system will be based on indoor positioning and involved in game process. Fro
 * See rest of the time
 * See commands  
 * See life parameters |
-| Commander   | *Choose workspace (theme)
+| Commander   | * Choose workspace (theme)
 * Enter name
 * Shoot
 * Reload weapon
@@ -64,7 +62,7 @@ Our system will be based on indoor positioning and involved in game process. Fro
 * Approve bonus
 * See rest time
 * Find treasure
- *See life parameters     |
+* See life parameters     |
 
 
 

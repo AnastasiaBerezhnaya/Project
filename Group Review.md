@@ -27,11 +27,11 @@
 **Review the following parts of the documentation.**<BR/>
 **For each section / part, describe the following:**
 
-1. ** Is all the content there?**
+1. Is all the content there?
  Yes
-2. ** What was bad in the specific part, how it could be improved?**
+2. What was bad in the specific part, how it could be improved?
  Functionalities are not fully described
-3. ** What was good in the specific part?**
+3. What was good in the specific part?
  System arhictecture
 
 

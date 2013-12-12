@@ -28,11 +28,11 @@
 **For each section / part, describe the following:**
 
 1. Is all the content there?
- Yes
+ **Yes**
 2. What was bad in the specific part, how it could be improved?
- Functionalities are not fully described
+ **Functionalities are not fully described**
 3. What was good in the specific part?
- System arhictecture
+ **System arhictecture**
 
 
 **Parts to review:**

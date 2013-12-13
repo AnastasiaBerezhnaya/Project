@@ -12,7 +12,7 @@
   Not exactly
 
 * How was the slideset?  
-  Not comprehensive user interface exmaple
+  Not comprehensive user interface examle
 
 * Was the presentation fluent? Body language? Language, quality of the speech?  
   Calm and confident, but made an impression that the presenter saw the presentation for the first time.
@@ -40,11 +40,11 @@
 1. **introduction (=first section) + project management (=last section)**  
   Quite spesific
 1. **use cases**  
-  Not well-though enough
+  Not well-thought enough
 1. **system overview**  
   The strongest part
 1. **requirements, functional & non-functional**  
   Basics are there
 1. **user interface**  
-  Quite good user interface pictures but without description
+  Good user interface pictures but without description
 
